@@ -9,3 +9,4 @@ dist
 .netlify
 .vercel
 CONTENT.MD
+.env.local
